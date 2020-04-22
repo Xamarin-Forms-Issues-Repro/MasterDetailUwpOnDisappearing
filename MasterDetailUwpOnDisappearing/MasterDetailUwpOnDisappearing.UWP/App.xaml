@@ -1,0 +1,8 @@
+﻿<Application
+    x:Class="MasterDetailUwpOnDisappearing.UWP.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:MasterDetailUwpOnDisappearing.UWP"
+    RequestedTheme="Light">
+
+</Application>
